@@ -1,4 +1,4 @@
-# **🔥 𝗧𝗵𝗲 𝗦𝗵𝗮𝗱𝗼𝘄 𝗕𝗿𝗼𝗸𝗲𝗿𝘀 - 𝗕𝗼𝘁 🔥**
+# **🔥 𝐬𝐨𝐭𝐫𝐚𝐯𝐢𝐥𝐦𝐚𝐤𝐞𝐫 - 𝗕𝗼𝘁 🔥**
 ### `NECESITAS AYUDA?, CONTACTAME`
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
@@ -59,7 +59,7 @@ de esa cantidad el Bot empieza a ir
 excesivamente lento (depende del WhatsApp igual)
 ```
 ### `WHATSAPP "BETA" (MULTI-DEVICE)`
-> #### *⚠️ ShadowBotV3 no es, ni sera compatible con la versión "beta" de WhatsApp (Multi-Dispositivo - Multi-Device), por lo que se sugiere usar los siguientes WhatsApps*
+> #### *⚠️ SBV3 no es, ni sera compatible con la versión "beta" de WhatsApp (Multi-Dispositivo - Multi-Device), por lo que se sugiere usar los siguientes WhatsApps*
 > ##### Agradecimientos a GataNina-Li por la recopilacion de los WhatsApps
 * [Opción 1 - WhatsApp Recomendado](https://www.mediafire.com/file/gers3gbbubpshji/%C3%8A%C2%99%C3%A1%C2%B4%C2%9Cs%C3%8D%C2%A8%C3%89%C2%AA%C3%8D%C2%A7%C3%89%C2%B4%C3%A1%C2%B7%C2%A8%C3%A1%C2%B4%C2%87%C3%8D%C2%A3s%C3%A1%C2%B7%C2%A1s%C3%8D%C2%A6+%C3%A2%C2%A9%C2%945_Secundario.apk/file).
 * [Opción 2 - WhatsApp Recomendado](https://www.mediafire.com/file/444tuerbs99y1d2/%25E2%2598%25A3%25EF%25B8%258F%25E2%259F%25BF%25CD%25A1%25CD%259C%25E2%259C%25AA%25F0%259D%2590%258B%25CD%25A5%25F0%259D%2590%259E%25F0%259D%2590%259A%25E1%25B7%25A7%25F0%259D%2590%259D%25E2%25B7%25A8%25F0%259D%2590%259E%25F0%259D%2590%25AB%25F0%2596%25A3%2594%25F0%259D%2590%2582%25F0%259D%2590%25A8%25E1%25B7%2597%25F0%259D%2590%25A6%25E1%25B7%25A2%25F0%259D%2590%259A%25CD%25A5%25F0%259D%2590%25A7%25E1%25B7%25A4%25F0%259D%2590%259D%25E1%25B7%25A4%25F0%259D%2590%25A8%25E2%2598%2598%25EF%25B8%258E.apk/file).
@@ -69,5 +69,5 @@ excesivamente lento (depende del WhatsApp igual)
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://avatars.githubusercontent.com/u/90165013?s=400&u=cdf7fd989e2a787c9f400545147865615c336002&v=4) 
 ```bash
-`The Shadow Brokers - Bot ___ By Bruno Sobrino` 
+`Sotravil Maker - Bot ___ By Sotravil` 
 ```
