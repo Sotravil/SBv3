@@ -28,7 +28,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/BrunoSobrino/ShadowBotV3
-> cd ShadowBotV3
+> cd SBv3
 > npm install
 > npm install -g npm@8.7.0
 > npm update
